@@ -1,7 +1,6 @@
 /.idea/
-/i-cloud-demo.iml
 /*target
-/*.iml
-/*.mvn
+*.iml
+*.mvn
 /logs
-/*.log
+*.log
