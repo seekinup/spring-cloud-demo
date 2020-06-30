@@ -1,1 +1,1 @@
-# i-cloud-demo
+# spring-cloud-demo
